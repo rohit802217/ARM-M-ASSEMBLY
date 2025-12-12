@@ -24,3 +24,4 @@ Refer to the following resource when progressing through the course:
 # Copyright
 Copyright © 2025 pyjamabrah.com. All Rights Reserved.
 # Zephyr-os-101
+# Zephyr-os-101
